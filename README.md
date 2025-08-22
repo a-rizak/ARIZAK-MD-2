@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/qumhu4.jpg" />
+  <img src="" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION -->
