@@ -1,120 +1,102 @@
-<img width="1536" height="1024" alt="file_000000002934622f9931e5b31ab0ed1b" src="https://github.com/user-attachments/assets/ec08e394-60ae-4772-a109-22c226972ff9" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
-</p>
 
-<p align="center">
-  <img src="" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a><img src="https://files.catbox.moe/qumhu4.jpg" width="500px" alt="ARIZAK-MD Logo"/></a>
+</div>
+
+---
 
 <!-- 📊 STATS & HERO ANIMATION -->
 <div align="center">
 
-  <!-- GitHub Stats Badges -->
   <p>
-    <img src="https://img.shields.io/github/forks/a-rizak/ARIZAK-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/a-rizak?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/a-rizak/ARIZAK-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/a-rizak/ARIZAK-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/a-rizak/ARIZAK-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/a-rizak/ARIZAK-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" />
+    <img src="https://img.shields.io/github/followers/a-rizak?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" />
+    <img src="https://img.shields.io/github/last-commit/a-rizak/ARIZAK-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" />
+    <img src="https://img.shields.io/github/repo-size/a-rizak/ARIZAK-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" />
+    <img src="https://img.shields.io/github/package-json/v/a-rizak/ARIZAK-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" />
   </p>
 
-  <!-- Hero GIF -->
   <p>
-    <img src="https://i.imgur.com/LyHic3i.gif" alt="Hero Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://i.imgur.com/LyHic3i.gif" alt="Hero Animation" width="100%" style="border-radius:16px;" />
   </p>
 
 </div>
 
-# ARIZAK-MD Setup
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ARIZAK+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+ARIZAK;🚀+ARIZAK-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+</h1>
+
+---
+
+## 📜 BOT FEATURES
+
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+
+---
+
+# ⚡ ARIZAK-MD Setup
 
 ### 🚀 Fork the Repository
 
-To start, fork this repository to your own GitHub account:
-
-<a href="https://github.com/a-rizak/ARIZAK-MD/fork"><img src="https://img.shields.io/github/forks/a-rizak/ARIZAK-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20ARIZAK-MD" alt="Fork ARIZAK-MD" /></a>
+<p align='center'>
+<a href="https://github.com/a-rizak/ARIZAK-MD/fork"><img src="https://img.shields.io/github/forks/a-rizak/ARIZAK-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20ARIZAK-MD" /></a>
+</p>
 
 ---
 
 ### 🔐 Step 2: Get Your Session ID
 
-Authenticate using **one** of the methods below to generate your `Session ID`.
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
-</p>
-
-> 🟢 Pair Code Authentication  
+> 📲 Pair Code Authentication  
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://arizakmd-pairsession.onrender.com/pair)
 
-> 🔵 QR Code Authentication  
+> 📱 QR Code Authentication  
 [![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://arizakmd-pairsession.onrender.com/qr)
 
-#### 🧩 Session App  
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://arizakmd-pairsession.onrender.com/)
+> 📲 Starcore Pair  
+[![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
 ---
 
-<h2 align="center">🚀 Deploy ARIZAK-MD Anywhere</h2>
+## 📡 DEPLOYMENT
 
-<p align="center">Choose a platform and deploy instantly:</p>
-
-<div align="left">
-
-🔵 **Heroku:**  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/a-rizak/ARIZAK-MD" target="_blank">
-  <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-</a>
-
-💗 **Koyeb:**  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=a-rizak/ARIZAK-MD" target="_blank">
-  <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
-</a>
-
-⚫ **Railway:**  
-<a href="https://railway.app/new" target="_blank">
-  <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
-</a>
-
-💚 **Render:**  
-<a href="https://dashboard.render.com/web/new" target="_blank">
-  <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
-</a>
-
-💎 **Netlify:**  
-<a href="https://app.netlify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
-</a>
-
-🟡 **TalkDrove:**  
-<a href="https://talkdrove.com" target="_blank">
-  <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
-</a>
-
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/a-rizak/ARIZAK-MD"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=a-rizak/ARIZAK-MD"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://railway.app/new"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new"><img src="https://img.shields.io/badge/Render-00ffaa?style=for-the-badge&logo=render&logoColor=white"/></a></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## ⚠️ DISCLAIMER
-
-- ❗ ARIZAK-MD is **not affiliated with WhatsApp Inc.**
-- 🚫 Misuse may lead to account bans. Use responsibly.
-- 🛑 Cloning, redistributing, or modifying **without credit** is strictly prohibited.
+- ❗ ARIZAK-MD is **not affiliated with WhatsApp Inc.**  
+- 🚫 Misuse may lead to account bans. Use responsibly.  
+- 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.  
 
 ---
 
 ## 💡 CREDITS & CONTRIBUTORS
-
-> Built with ❤️ by **Abdirii / a-rizak**
-
-- 👤 [a-rizak](https://github.com/a-rizak) — Creator & Maintainer  
-  - Core features, plugin manager, deployment tools, performance optimization
+> Built with ❤️ by **Arizak**  
+- 👤 [Arizak](https://github.com/a-rizak) — Creator & Maintainer  
 
 ---
 
-## 🗃️ PROJECT ARCHITECTS
-
+## 📊 PROJECT STATS
 <p align="center">
   <a href="https://github.com/a-rizak">
     <img src="https://github-readme-stats.vercel.app/api?username=a-rizak&show_icons=true&theme=radical" />
@@ -123,18 +105,15 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 ---
 
-## 🌐 JOIN OUR SUPPORT CHANNELS
-
-> 🔔 Stay connected for updates, tutorials & support!
-
-- ▶️ **YouTube: ARIZAK Tech**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arizak)
+## 🌐 SUPPORT CHANNELS
+- ▶️ **YouTube: Arizak Tech**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arizaktech)
 
 ---
 
-## 👑 ARIZAK STATUS
+## 🤖 _ARIZAK-MD STATUS_
 
 ```diff
 + Project Status: Active
-! Version: 1.0.0 Neon Edition
-# License: APACHE
+! Version: V.1.5.0 Neon Edition
+# License: MIT
